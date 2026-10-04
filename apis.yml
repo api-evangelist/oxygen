@@ -44,7 +44,7 @@ tags:
 - Fintech
 - Banking
 - Neobank
-- Financial-Services
+- Financial Services
 - Payments
 tags_raw:
 - Company
@@ -53,6 +53,7 @@ tags_raw:
 - Neobank
 - Financial Services
 - Payments
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
