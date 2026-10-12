@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/oxygen/integrations
+- https://n8n.io/integrations/oxygen/
+- https://composio.dev/toolkits/oxygen
+- https://monid.ai/tools/oxygen
+checked:
+- https://composio.dev/toolkits/oxygen
+- https://monid.ai/tools/oxygen
+- https://n8n.io/integrations/oxygen/
+- https://zapier.com/apps/oxygen/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
